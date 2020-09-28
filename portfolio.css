@@ -1,8 +1,9 @@
-body{
-    background-color: rgb(56, 216, 128);
-}
 .jumbotron {
     background-color: rgb(44, 44, 44);
     color: rgb(56, 216, 128);
     font-family: 'Righteous', cursive;
+}
+body {
+    background-color: rgb(56, 216, 128);
+
 }
