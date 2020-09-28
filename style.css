@@ -1,3 +1,26 @@
+.container {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
 body {
-    background-color: teal;
+    background-color: rgb(56, 216, 128);
+}
+.jumbotron{
+    background-color: rgb(44, 44, 44);
+    color: rgb(56, 216, 128);
+    font-family: 'Righteous', cursive;
+}
+.navbar {
+    background-color: black;
+    
+}
+header {
+    font-size: 42px;
+    font-family: 'Righteous', cursive;
+}
+p {
+    font-size: 17.5px;
+
 }
